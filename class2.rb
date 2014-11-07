@@ -8,4 +8,4 @@ class Greeter
   def say_bye
     puts "See ya later #{@name}!"
   end
-end|
+end
